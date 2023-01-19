@@ -24,6 +24,7 @@ body{
     border-radius: 10px;
     text-align: center;
     overflow: hidden;
+    margin: auto 20px;
     /* margin: auto; */
 }
 
